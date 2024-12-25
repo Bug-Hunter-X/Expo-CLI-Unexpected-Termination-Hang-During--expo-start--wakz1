@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where a seemingly correct command, such as `expo start`, would fail without providing any meaningful error messages. The CLI would simply hang or terminate unexpectedly, leaving me with no clues about the underlying problem.  This occurred consistently across different projects and even after reinstalling Expo CLI.
